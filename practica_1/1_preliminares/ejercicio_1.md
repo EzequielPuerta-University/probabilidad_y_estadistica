@@ -1,4 +1,4 @@
-##### 1.a. Se deben pintar los frentes de 10 casas y se dispone de 23 colores distintos de pintura. ¿De cuántas formas puede hacerse? ¿De cuántas formas puede hacer si cada casa debe tener un color distinto?
+### 1.a. Se deben pintar los frentes de 10 casas y se dispone de 23 colores distintos de pintura. ¿De cuántas formas puede hacerse? ¿De cuántas formas puede hacer si cada casa debe tener un color distinto?
 
 Tenemos 10 casas y 23 colores disponibles. Por lo tanto, por cada casa tenemos 23 opciones. Si sólo tuvieramos que pintar una, la respuesta sería trivial. Hay 23 maneras de pintar una casa.
 
@@ -148,8 +148,10 @@ El patrón a seguir es el siguiente:
 | ---           | ---      | ---      | ---      | ---      | ---      | ---      | ---      | ---      | ---      | ---       |
 | Posibilidades | $23^{1}$ | $23^{2}$ | $23^{3}$ | $23^{4}$ | $23^{5}$ | $23^{6}$ | $23^{7}$ | $23^{8}$ | $23^{9}$ | $23^{10}$ |
 
+##### Resultado:
+
 ```math
-\text{El resultado es } 23^{10} {}_\square
+23^{10} {}_\square
 ```
 
 Ahora bien, entre dichos resultados estamos contando situaciones donde hay casas con colores repetidos. Por ejemplo situaciones como la siguiente:
@@ -301,7 +303,9 @@ Finalmente, si contamos las hojas del árbol resultante vemos que son 24, y conc
 4 \times 3 \times 2 = 24
 ```
 
-Si aplicamos ésta misma fórmula para nuestro problema original, el de las 10 casas y los 23 colores disponibles, entonces tendríamos el siguiente resultado:
+Si aplicamos ésta misma fórmula para nuestro problema original, el de las 10 casas y los 23 colores disponibles, entonces tendríamos lo siguiente:
+
+##### Resultado:
 
 ```math
 23 \times 22 \times 21 \times 20 \times 19 \times 18 \times 17 \times 16 \times 15 \times 14 = \prod_{n=14}^{23} n = \frac{\prod_{n=1}^{23} n}{\prod_{n=1}^{13} n} = \frac{23!}{13!} _\square
