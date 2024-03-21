@@ -6,7 +6,7 @@
 
 <summary>
 
-### 1. Preliminares (6 ejercicios)
+### 1. Preliminares
 
 </summary>
 
@@ -14,9 +14,11 @@
 
 <summary>
 
-#### 1.a. Se deben pintar los frentes de 10 casas y se dispone de 23 colores distintos de pintura. ¿De cuántas formas puede hacerse? ¿De cuántas formas puede hacer si cada casa debe tener un color distinto?
+#### 1.a.
 
 </summary>
+
+##### Se deben pintar los frentes de 10 casas y se dispone de 23 colores distintos de pintura. ¿De cuántas formas puede hacerse? ¿De cuántas formas puede hacer si cada casa debe tener un color distinto?
 
 Tenemos 10 casas y 23 colores disponibles. Por lo tanto, por cada casa tenemos 23 opciones. Si sólo tuvieramos que pintar una, la respuesta sería trivial. Hay 23 maneras de pintar una casa.
 
@@ -333,7 +335,7 @@ Si aplicamos ésta misma fórmula para nuestro problema original, el de las 10 c
 
 <summary>
 
-### 2. Probabilidad en espacios finitos, equiprobabilidad (22 ejercicios)
+### 2. Probabilidad en espacios finitos, equiprobabilidad
 
 </summary>
 
