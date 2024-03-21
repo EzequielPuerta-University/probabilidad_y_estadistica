@@ -2,4 +2,4 @@
 
 ## 1° Cuatrimestre 2024
 
-1. [Práctica 1](practica_1/practica_1/practica1.ipynb)
+1. [Práctica 1](practica_1/README.md)
