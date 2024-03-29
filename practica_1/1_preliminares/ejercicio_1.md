@@ -1,4 +1,4 @@
-### 1.a. Se deben pintar los frentes de 10 casas y se dispone de 23 colores distintos de pintura. ¿De cuántas formas puede hacerse? ¿De cuántas formas puede hacer si cada casa debe tener un color distinto?
+### <a name="1.a"></a> 1.a. Se deben pintar los frentes de 10 casas y se dispone de 23 colores distintos de pintura. ¿De cuántas formas puede hacerse? ¿De cuántas formas puede hacer si cada casa debe tener un color distinto?
 
 Tenemos 10 casas y 23 colores disponibles. Por lo tanto, por cada casa tenemos 23 opciones. Si sólo tuvieramos que pintar una, la respuesta sería trivial. Hay 23 maneras de pintar una casa.
 
@@ -310,3 +310,19 @@ Si aplicamos ésta misma fórmula para nuestro problema original, el de las 10 c
 ```math
 23 \times 22 \times 21 \times 20 \times 19 \times 18 \times 17 \times 16 \times 15 \times 14 = \prod_{n=14}^{23} n = \frac{\prod_{n=1}^{23} n}{\prod_{n=1}^{13} n} = \frac{23!}{13!} _\square
 ```
+
+### <a name="1.b"></a> 1.b. Generalizar el ítem anterior para el caso de $k$ casas y $n$ colores.
+
+Si ahora tenemos $k$ casas y $n$ colores, pudiendo repetirlos, las combinaciones son las siguientes:
+
+```math
+n \times n \times n ... n = \prod_{i=1}^{k} n = n^{k} {}_\square
+```
+
+Ahora bien, si no podemos repetir los colores:
+
+```math
+n \times (n-1) \times (n-2)... (n-(k-1)) = \frac{\prod_{i=1}^{n} i}{\prod_{i=1}^{n-k} i} = \prod_{i=n-(k-1)}^{n} i _\square
+```
+
+> [Volver](../README.md)
