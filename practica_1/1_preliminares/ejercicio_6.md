@@ -92,7 +92,7 @@ Ahora tenemos una condición mas compleja, que involucra 3 letras distintas (nin
 \end{align}
 ```
 
-### <a name="6.d"></a> ¿Y con la condición de que las dos A no estén juntas?
+### <a name="6.d"></a> 6.d. ¿Y con la condición de que las dos A no estén juntas?
 
 Tal vez es mas fácil y directo buscar el complemento. Los casos de anagramas donde las ***A*** no están juntas, son equivalentes al total menos los casos de anagramas donde las ***A*** efectivamente están juntas. Esto puede ser mucho mas fácil de resolver. Para empezar, la cantidad de anagramas totales ya la tenemos (del primer inciso). Luego, considerar los casos con ***A*** juntas, es equivalente a considerar que tenemos en realidad 12 caracteres, ya que uno de ellos siempre irá agrupado como un par ***AA***, por lo que requerimos una posición menos.
 
@@ -115,7 +115,7 @@ Una vez obtenido el anterior resultado, buscamos el complemento mencionado:
 \end{align}
 ```
 
-### <a name="6.e"></a> ¿Y con la condición de que todas las vocales estén juntas?
+### <a name="6.e"></a> 6.e. ¿Y con la condición de que todas las vocales estén juntas?
 
 Ahora nos piden agrupar las vocales (y consecuentemente, las consonantes), por lo que será útil ver las letras que disponemos, pero ésta vez agrupadas como corresponde:
 
