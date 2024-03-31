@@ -89,11 +89,14 @@ A^C_1 \cap A^C_2 \cap A^C_3 & A^C_1 \cap A^C_2 \cap A_3 & (A^C_1 \cap A^C_2) \cu
     1. (puede ser útil para el siguiente ítem) Probar que:
 
 ```math
+\begin{align}
 P(A_1 \cup A_2 \cup A_3 \cup A_4)=P(A_1) + P(A_2) + P(A_3) + P(A_4) \\
 −P(A_1 \cap A_2) − P(A_1 \cap A_3) − P(A_1 \cap A_4) − P(A_2 \cap A_3) − P(A_2 \cap A_4) − P(A_3 \cap A_4) \\
 + P(A_1 \cap A_2 \cap A_3) + P(A_1 \cap A_2 \cap A_4) + P(A_1 \cap A_3 \cap A_4) + P(A_2 \cap A_3 \cap A_4) \\
 − P(A_1 \cap A_2 \cap A_3 \cap A_4)
+\end{align}
 ```
+
 9.
     2. Cuatro matrimonios deciden bailar un tango, eligiendo las mujeres a sus compañeros al azar.
         1. ¿Cuál es la probabilidad de que la mujer $i$ (fijo) elija a su esposo como pareja de baile; $i=1,2,3,4$?
