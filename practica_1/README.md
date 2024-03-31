@@ -5,8 +5,8 @@
 ### 1. Preliminares
 
 1.
-    1. <a href="1_preliminares/ejercicio_1.md#1.a">Se deben pintar los frentes de 10 casas y se dispone de 23 colores distintos de pintura. ¿De cuántas formas puede hacerse? ¿De cuántas formas puede hacer si cada casa debe tener un color distinto?</a>
-    2. <a href="1_preliminares/ejercicio_1.md#1.b">Generalizar el ítem anterior para el caso de $k$ casas y $n$ colores.</a>
+    1. [Se deben pintar los frentes de 10 casas y se dispone de 23 colores distintos de pintura. ¿De cuántas formas puede hacerse? ¿De cuántas formas puede hacer si cada casa debe tener un color distinto?](1_preliminares/ejercicio_1.md#1.a)
+    2. [Generalizar el ítem anterior para el caso de $k$ casas y $n$ colores.](1_preliminares/ejercicio_1.md#1.b)
 2.
     1. [De un grupo de 35 deportistas se necesita elegir 5 para participar de una competición. ¿De cuántas formas distintas puede hacerse? ¿Qué cambia si esos cinco representantes a su vez cumplen cinco funciones distintas?](1_preliminares/ejercicio_2.md#2.a)
     2. [Generalizar el ítem anterior para el caso de $n$ deportistas y $k$ representantes.](1_preliminares/ejercicio_2.md#2.b)
