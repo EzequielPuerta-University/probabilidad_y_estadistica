@@ -56,22 +56,22 @@
     2. [¿Es razonable suponer equiprobabilidad en este espacio? ¿Qué probabilidad le asignaría al $(3,2,1)$?](2_equiprobabilidad/ejercicio_4.md#4.b)
 5. [Una firma proveedora de software ha ofrecido sus servicios a 3 empresas. Se definen los eventos $A_i$ = {la empresa $i$ realiza una compra a esta firma} , para $i = 1, 2, 3$. Se sabe que:](2_equiprobabilidad/ejercicio_5.md#5)
 
-    ```math
-    \begin{array}{ccc}
-    P(A_1)=0.22 & P(A_2)=0.25 & P(A_3)=0.28 \\
-    P(A_1 \cap A_2)=0.11 & P(A_1 \cap A_3)=0.05 & P(A_2 \cap A_3)=0.07 \\
-    P(A_1 \cap A_2 \cap A_3)=0.01
-    \end{array}
-    ```
+```math
+\begin{array}{ccc}
+P(A_1)=0.22 & P(A_2)=0.25 & P(A_3)=0.28 \\
+P(A_1 \cap A_2)=0.11 & P(A_1 \cap A_3)=0.05 & P(A_2 \cap A_3)=0.07 \\
+P(A_1 \cap A_2 \cap A_3)=0.01
+\end{array}
+```
 
-    [Expresar en palabras los siguientes eventos y calcular sus probabilidades:](2_equiprobabilidad/ejercicio_5.md#5)
+[Expresar en palabras los siguientes eventos y calcular sus probabilidades:](2_equiprobabilidad/ejercicio_5.md#5)
 
-    ```math
-    \begin{array}{ccc}
-    A_1 \cup A_2 & A^C_1 \cap A^C_2 & A_1 \cup A_2 \cup A_3 \\
-    A^C_1 \cap A^C_2 \cap A^C_3 & A^C_1 \cap A^C_2 \cap A_3 & (A^C_1 \cap A^C_2) \cup A_3
-    \end{array}
-    ```
+```math
+\begin{array}{ccc}
+A_1 \cup A_2 & A^C_1 \cap A^C_2 & A_1 \cup A_2 \cup A_3 \\
+A^C_1 \cap A^C_2 \cap A^C_3 & A^C_1 \cap A^C_2 \cap A_3 & (A^C_1 \cap A^C_2) \cup A_3
+\end{array}
+```
 
 6. [Un grupo de 60 alumnos será subdividido al azar en dos divisiones de 30 alumnos cada una. Cinco de esos alumnos son muy amigos.: Alicia, Beto, Carmen, Diego y Eva:](2_equiprobabilidad/ejercicio_6.md#6)
     1. [¿Cuál es la probabilidad de que todos queden en la misma división?](2_equiprobabilidad/ejercicio_6.md#6.a)
@@ -88,13 +88,13 @@
 9.
     1. (puede ser útil para el siguiente ítem) Probar que:
 
-        ```math
-        P(A_1 \cup A_2 \cup A_3 \cup A_4)=P(A_1) + P(A_2) + P(A_3) + P(A_4) \\
-        −P(A_1 \cap A_2) − P(A_1 \cap A_3) − P(A_1 \cap A_4) − P(A_2 \cap A_3) − P(A_2 \cap A_4) − P(A_3 \cap A_4) \\
-        + P(A_1 \cap A_2 \cap A_3) + P(A_1 \cap A_2 \cap A_4) + P(A_1 \cap A_3 \cap A_4) + P(A_2 \cap A_3 \cap A_4) \\
-        − P(A_1 \cap A_2 \cap A_3 \cap A_4)
-        ```
-
+```math
+P(A_1 \cup A_2 \cup A_3 \cup A_4)=P(A_1) + P(A_2) + P(A_3) + P(A_4) \\
+−P(A_1 \cap A_2) − P(A_1 \cap A_3) − P(A_1 \cap A_4) − P(A_2 \cap A_3) − P(A_2 \cap A_4) − P(A_3 \cap A_4) \\
++ P(A_1 \cap A_2 \cap A_3) + P(A_1 \cap A_2 \cap A_4) + P(A_1 \cap A_3 \cap A_4) + P(A_2 \cap A_3 \cap A_4) \\
+− P(A_1 \cap A_2 \cap A_3 \cap A_4)
+```
+9.
     2. Cuatro matrimonios deciden bailar un tango, eligiendo las mujeres a sus compañeros al azar.
         1. ¿Cuál es la probabilidad de que la mujer $i$ (fijo) elija a su esposo como pareja de baile; $i=1,2,3,4$?
         2. ¿Cuál es la probabilidad de que al menos una mujer elija a su esposo?
@@ -168,7 +168,7 @@ Se arroja un dado equilibrado. Si sale 3 ó 6 se extrae una bolita de la urna $A
     2. Si ambas bolitas son rojas, ¿cuál es la probabilidad de que haya salido 3 ó 6?
 18. Se tienen $(n + 1)$ urnas numeradas 0, 1, . . . , $n$. La urna $i$ contiene $i$ bolitas blancas y $(n − i)$ bolitas negras. Se elige al azar una urna y de ella se extrae una bolita al azar. Sugerencia:
     1. Calcular la probabilidad de que la bolita extraı́da sea blanca.
-    2. Si la bolita extraı́da es blanca, calcular la probabilidad de que provenga de la urna $i$, ($i$ = 0, 1, . . . , $n$). Sugerencia: usar que $\sum_{i=1}^{n} i = n(n + 1)/2$.
+    2. Si la bolita extraı́da es blanca, calcular la probabilidad de que provenga de la urna $i$, ($i$ = 0, 1, . . . , $n$). Sugerencia: usar que $\sum^{n}_{i=1} i = n(n + 1)/2$.
 19. Se extrae al azar una bolita de una urna que contiene 9 bolitas de las cuales 3 son blancas, 3 son negras y 3 son rojas. Las bolitas están numeradas 1, 2 y 3 dentro de cada color y además las siguientes bolitas están rayadas: número uno color blanco, número dos color negro y número tres color rojo. Sean los sucesos:
 **$A$:** la bolita es número uno.
 **$B$:** la bolita es blanca.
