@@ -82,9 +82,9 @@ A^C_1 \cap A^C_2 \cap A^C_3 & A^C_1 \cap A^C_2 \cap A_3 & (A^C_1 \cap A^C_2) \cu
         2. a los dos primeros congresos vayan mujeres y al tercero un hombre. [ver](2_equiprobabilidad/ejercicio_7.md#7.a.2)
         3. haya por lo menos una mujer entre las 3 personas elegidas. [ver](2_equiprobabilidad/ejercicio_7.md#7.a.3)
     2. Si a cada congreso debe ir una persona diferente, calcular las mismas probabilidades que en (7.i) y además la probabilidad de que haya exactamente una mujer entre las 3 personas elegidas. [ver](2_equiprobabilidad/ejercicio_7.md#7.b)
-8. En un negocio hay 6 productos de cierto tipo, 3 de ellos vencidos y 3 que están dentro del periodo de validez. Si un supervisor, que no sabe cuántos envases válidos o vencidos hay, los revisa, ¿cuál es la probabilidad de que
-    1. los tres primeros envases revisados contengan los productos vencidos?
-    2. necesite revisar exactamente $i$ envases para encontrar los tres que contienen los productos vencidos? (hacerlo para $i = 4, 5, 6$).
+8. En un negocio hay 6 productos de cierto tipo, 3 de ellos vencidos y 3 que están dentro del periodo de validez. Si un supervisor, que no sabe cuántos envases válidos o vencidos hay, los revisa, ¿cuál es la probabilidad de que [ver](2_equiprobabilidad/ejercicio_8.md#8)
+    1. los tres primeros envases revisados contengan los productos vencidos? [ver](2_equiprobabilidad/ejercicio_8.md#8.a)
+    2. necesite revisar exactamente $i$ envases para encontrar los tres que contienen los productos vencidos? (hacerlo para $i = 4, 5, 6$). [ver](2_equiprobabilidad/ejercicio_8.md#8.b)
 9.
     1. (puede ser útil para el siguiente ítem) Probar que:
 
