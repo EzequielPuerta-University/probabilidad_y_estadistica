@@ -5,56 +5,56 @@
 ### 1. Preliminares
 
 1.
-    1. [Se deben pintar los frentes de 10 casas y se dispone de 23 colores distintos de pintura. ¿De cuántas formas puede hacerse? ¿De cuántas formas puede hacer si cada casa debe tener un color distinto?](1_preliminares/ejercicio_1.md#1.a)
-    2. [Generalizar el ítem anterior para el caso de $k$ casas y $n$ colores.](1_preliminares/ejercicio_1.md#1.b)
+    1. Se deben pintar los frentes de 10 casas y se dispone de 23 colores distintos de pintura. ¿De cuántas formas puede hacerse? ¿De cuántas formas puede hacer si cada casa debe tener un color distinto? [ver](1_preliminares/ejercicio_1.md#1.a)
+    2. Generalizar el ítem anterior para el caso de $k$ casas y $n$ colores. [ver](1_preliminares/ejercicio_1.md#1.b)
 2.
-    1. [De un grupo de 35 deportistas se necesita elegir 5 para participar de una competición. ¿De cuántas formas distintas puede hacerse? ¿Qué cambia si esos cinco representantes a su vez cumplen cinco funciones distintas?](1_preliminares/ejercicio_2.md#2.a)
-    2. [Generalizar el ítem anterior para el caso de $n$ deportistas y $k$ representantes.](1_preliminares/ejercicio_2.md#2.b)
-3. [En el tablero de la figura,](1_preliminares/ejercicio_3.md#3)
+    1. De un grupo de 35 deportistas se necesita elegir 5 para participar de una competición. ¿De cuántas formas distintas puede hacerse? ¿Qué cambia si esos cinco representantes a su vez cumplen cinco funciones distintas? [ver](1_preliminares/ejercicio_2.md#2.a)
+    2. Generalizar el ítem anterior para el caso de $n$ deportistas y $k$ representantes. [ver](1_preliminares/ejercicio_2.md#2.b)
+3. En el tablero de la figura,
 
 ![Figura1.1.3](img/1_1_3.png)
 
-[¿cuántas formas hay de llegar desde *A* hasta *B* realizando movimientos hacia abajo y hacia la derecha siguiendo las líneas? ¿Cuántos de esos caminos pasan por $X$? Generalizar para un tablero de tamaño $n \times m$.](1_preliminares/ejercicio_3.md#3)
+¿cuántas formas hay de llegar desde *A* hasta *B* realizando movimientos hacia abajo y hacia la derecha siguiendo las líneas? ¿Cuántos de esos caminos pasan por $X$? Generalizar para un tablero de tamaño $n \times m$. [ver](1_preliminares/ejercicio_3.md#3)
 
-4. [Una clase tiene 3 estudiantes de Villa Ballester y 4 de Claypole. Se elige de entre ellos un comité de 5 estudiantes. Hallar la cantidad de posibles comités que tienen dos estudiantes de Villa Ballester y tres de Claypole.](1_preliminares/ejercicio_4.md#4)
-5. [De una caja que contiene 123 bolillas numeradas de 1 a 123 se extraen cinco bolillas. ¿Cuántos resultados posibles hay si](1_preliminares/ejercicio_5.md#5)
-    1. [las bolillas se extraen una a la vez y se descartan después de extraerlas?](1_preliminares/ejercicio_5.md#5.a)
-    2. [las bolillas se extraen una a la vez y se devuelven a la caja después de extraerlas?](1_preliminares/ejercicio_5.md#5.b)
-    3. [las bolillas se extraen todas juntas?](1_preliminares/ejercicio_5.md#5.c)
+4. Una clase tiene 3 estudiantes de Villa Ballester y 4 de Claypole. Se elige de entre ellos un comité de 5 estudiantes. Hallar la cantidad de posibles comités que tienen dos estudiantes de Villa Ballester y tres de Claypole. [ver](1_preliminares/ejercicio_4.md#4)
+5. De una caja que contiene 123 bolillas numeradas de 1 a 123 se extraen cinco bolillas. ¿Cuántos resultados posibles hay si [ver](1_preliminares/ejercicio_5.md#5)
+    1. las bolillas se extraen una a la vez y se descartan después de extraerlas? [ver](1_preliminares/ejercicio_5.md#5.a)
+    2. las bolillas se extraen una a la vez y se devuelven a la caja después de extraerlas? [ver](1_preliminares/ejercicio_5.md#5.b)
+    3. las bolillas se extraen todas juntas? [ver](1_preliminares/ejercicio_5.md#5.c)
 6.
-    1. [¿Cuántos anagramas de **BIBLIOTECARIA** pueden formarse?](1_preliminares/ejercicio_6.md#6.a)
-    2. [¿Y con la condición de que la T esté a la derecha de la C?](1_preliminares/ejercicio_6.md#6.b)
-    3. [¿Y con la condición de que la T esté a la derecha de la C y la C a la derecha de la R?](1_preliminares/ejercicio_6.md#6.c)
-    4. [¿Y con la condición de que las dos A no estén juntas?](1_preliminares/ejercicio_6.md#6.d)
-    5. [¿Y con la condición de que todas las vocales estén juntas?](1_preliminares/ejercicio_6.md#6.e)
+    1. ¿Cuántos anagramas de **BIBLIOTECARIA** pueden formarse? [ver](1_preliminares/ejercicio_6.md#6.a)
+    2. ¿Y con la condición de que la T esté a la derecha de la C? [ver](1_preliminares/ejercicio_6.md#6.b)
+    3. ¿Y con la condición de que la T esté a la derecha de la C y la C a la derecha de la R? [ver](1_preliminares/ejercicio_6.md#6.c)
+    4. ¿Y con la condición de que las dos A no estén juntas? [ver](1_preliminares/ejercicio_6.md#6.d)
+    5. ¿Y con la condición de que todas las vocales estén juntas? [ver](1_preliminares/ejercicio_6.md#6.e)
 
 ### 2. Probabilidad en espacios finitos, equiprobabilidad
 
-1. [Se arroja dos veces un dado equilibrado, registrándose los resultados obtenidos.](2_equiprobabilidad/ejercicio_1.md#1)
-    1. [Definir un espacio muestral $S$ apropiado para este experimento.](2_equiprobabilidad/ejercicio_1.md#1.a)
-    2. [Describir el conjunto de elementos del espacio muestral que satisface que:](2_equiprobabilidad/ejercicio_1.md#1.b)
-        - [***$A$***: la suma de los dos números obtenidos es por lo menos 5](2_equiprobabilidad/ejercicio_1.md#1.b.1)
-        - [***$B$***: el valor obtenido en el primer tiro es superior al obtenido en el segundo](2_equiprobabilidad/ejercicio_1.md#1.b.2)
-        - [***$C$***: el valor obtenido en el primer tiro es un 4](2_equiprobabilidad/ejercicio_1.md#1.b.3)
-    3. [Calcular las probabilidades de los eventos definidos en 1.ii.](2_equiprobabilidad/ejercicio_1.md#1.c)
-    4. [Simular en **R** el experimento de tirar dos veces un dado equilibrado.](2_equiprobabilidad/ejercicio_1.md#1.d)
-    5. [Simular 1000 veces en **R** el experimento de tirar dos veces un dado equilibrado y estimar las probabilidades de los sucesos definidos en 1.b.](2_equiprobabilidad/ejercicio_1.md#1.e)
-    6. [Describir los siguientes conjuntos:](2_equiprobabilidad/ejercicio_1.md#1.f)
-        1. [$A \cap B$](2_equiprobabilidad/ejercicio_1.md#1.f.1)
-        2. [$B \cup C$](2_equiprobabilidad/ejercicio_1.md#1.f.2)
-        3. [$A \cap (B \cup C)$](2_equiprobabilidad/ejercicio_1.md#1.f.3)
-    7. [Calcular las probabilidades de los sucesos definidos en 1.vi](2_equiprobabilidad/ejercicio_1.md#1.g)
-    8. [Estimar las probabilidades de los sucesos definidos en 1.vi mediante simulaciones. Comparar con los resultados obtenidos en 1.vii.](2_equiprobabilidad/ejercicio_1.md#1.h)
+1. Se arroja dos veces un dado equilibrado, registrándose los resultados obtenidos. [ver](2_equiprobabilidad/ejercicio_1.md#1)
+    1. Definir un espacio muestral $S$ apropiado para este experimento. [ver](2_equiprobabilidad/ejercicio_1.md#1.a)
+    2. Describir el conjunto de elementos del espacio muestral que satisface que: [ver](2_equiprobabilidad/ejercicio_1.md#1.b)
+        - ***$A$***: la suma de los dos números obtenidos es por lo menos 5 [ver](2_equiprobabilidad/ejercicio_1.md#1.b.1)
+        - ***$B$***: el valor obtenido en el primer tiro es superior al obtenido en el segundo [ver](2_equiprobabilidad/ejercicio_1.md#1.b.2)
+        - ***$C$***: el valor obtenido en el primer tiro es un 4 [ver](2_equiprobabilidad/ejercicio_1.md#1.b.3)
+    3. Calcular las probabilidades de los eventos definidos en 1.ii. [ver](2_equiprobabilidad/ejercicio_1.md#1.c)
+    4. Simular en **R** el experimento de tirar dos veces un dado equilibrado. [ver](2_equiprobabilidad/ejercicio_1.md#1.d)
+    5. Simular 1000 veces en **R** el experimento de tirar dos veces un dado equilibrado y estimar las probabilidades de los sucesos definidos en 1.b. [ver](2_equiprobabilidad/ejercicio_1.md#1.e)
+    6. Describir los siguientes conjuntos: [ver](2_equiprobabilidad/ejercicio_1.md#1.f)
+        1. $A \cap B$ [ver](2_equiprobabilidad/ejercicio_1.md#1.f.1)
+        2. $B \cup C$ [ver](2_equiprobabilidad/ejercicio_1.md#1.f.2)
+        3. $A \cap (B \cup C)$ [ver](2_equiprobabilidad/ejercicio_1.md#1.f.3)
+    7. Calcular las probabilidades de los sucesos definidos en 1.vi [ver](2_equiprobabilidad/ejercicio_1.md#1.g)
+    8. Estimar las probabilidades de los sucesos definidos en 1.vi mediante simulaciones. Comparar con los resultados obtenidos en 1.vii. [ver](2_equiprobabilidad/ejercicio_1.md#1.h)
 2.
-    1. [Dados dos eventos $A$ y $B$ tales que se conocen $P(A \cup B)$ y $P(A \cap B)$, hallar una fórmula para la probabilidad de que ocurra exactamente uno de estos eventos.](2_equiprobabilidad/ejercicio_2.md#2.a)
-    2. [Una compañía constructora trabaja en dos proyectos diferentes. Sea $A$ el evento: “el primero de los proyectos se termina en la fecha del contrato” y definamos análogamente $B$ para el segundo proyecto. Si $P(A \cup B) = 0.9$ y $P(A \cap B) = 0.5$, ¿cuál es la probabilidad de que exactamente un proyecto se termine para la fecha de contrato?](2_equiprobabilidad/ejercicio_2.md#2.b)
-3. [Supongamos que cuando una computadora se “cuelga” (no responde), el 75% de las veces se debe a problemas de memoria y el 15% de las veces a problemas de software y que el 15% de las veces se debe a problemas que no son ni de memoria ni de software. Si una computadora se cuelga,](2_equiprobabilidad/ejercicio_3.md#3)
-    1. [¿cuál es la probabilidad de que estos dos problemas ocurran simultáneamente?](2_equiprobabilidad/ejercicio_3.md#3.a)
-    2. [¿cuál es la probabilidad de que ocurra un problema de software y no de memoria?](2_equiprobabilidad/ejercicio_3.md#3.b)
-4. ***FALTA!!!*** [De un bolillero que contiene 5 bolillas numeradas 1, 2, 3, 4, 5 se extrae una al azar, sea la número $k$. Se eliminan las bolillas cuyo número es mayor que $k$ de la urna y se hace una segunda extracción al azar entre las bolillas 1 a $k$, sea la número $j$. Se eliminan las bolillas cuyo número es mayor que $j$ de la urna y se hace una tercera extracción al azar entre las bolillas 1 a $j$.](2_equiprobabilidad/ejercicio_4.md#4)
-    1. [Describir un espacio muestral adecuado para este experimento y determinar el número de elementos que posee.](2_equiprobabilidad/ejercicio_4.md#4.a)
-    2. [¿Es razonable suponer equiprobabilidad en este espacio? ¿Qué probabilidad le asignaría al $(3,2,1)$?](2_equiprobabilidad/ejercicio_4.md#4.b)
-5. [Una firma proveedora de software ha ofrecido sus servicios a 3 empresas. Se definen los eventos $A_i$ = {la empresa $i$ realiza una compra a esta firma} , para $i = 1, 2, 3$. Se sabe que:](2_equiprobabilidad/ejercicio_5.md#5)
+    1. Dados dos eventos $A$ y $B$ tales que se conocen $P(A \cup B)$ y $P(A \cap B)$, hallar una fórmula para la probabilidad de que ocurra exactamente uno de estos eventos. [ver](2_equiprobabilidad/ejercicio_2.md#2.a)
+    2. Una compañía constructora trabaja en dos proyectos diferentes. Sea $A$ el evento: “el primero de los proyectos se termina en la fecha del contrato” y definamos análogamente $B$ para el segundo proyecto. Si $P(A \cup B) = 0.9$ y $P(A \cap B) = 0.5$, ¿cuál es la probabilidad de que exactamente un proyecto se termine para la fecha de contrato? [ver](2_equiprobabilidad/ejercicio_2.md#2.b)
+3. Supongamos que cuando una computadora se “cuelga” (no responde), el 75% de las veces se debe a problemas de memoria y el 15% de las veces a problemas de software y que el 15% de las veces se debe a problemas que no son ni de memoria ni de software. Si una computadora se cuelga, [ver](2_equiprobabilidad/ejercicio_3.md#3)
+    1. ¿cuál es la probabilidad de que estos dos problemas ocurran simultáneamente? [ver](2_equiprobabilidad/ejercicio_3.md#3.a)
+    2. ¿cuál es la probabilidad de que ocurra un problema de software y no de memoria? [ver](2_equiprobabilidad/ejercicio_3.md#3.b)
+4. ***FALTA!!!*** De un bolillero que contiene 5 bolillas numeradas 1, 2, 3, 4, 5 se extrae una al azar, sea la número $k$. Se eliminan las bolillas cuyo número es mayor que $k$ de la urna y se hace una segunda extracción al azar entre las bolillas 1 a $k$, sea la número $j$. Se eliminan las bolillas cuyo número es mayor que $j$ de la urna y se hace una tercera extracción al azar entre las bolillas 1 a $j$. [ver](2_equiprobabilidad/ejercicio_4.md#4)
+    1. Describir un espacio muestral adecuado para este experimento y determinar el número de elementos que posee. [ver](2_equiprobabilidad/ejercicio_4.md#4.a)
+    2. ¿Es razonable suponer equiprobabilidad en este espacio? ¿Qué probabilidad le asignaría al $(3,2,1)$? [ver](2_equiprobabilidad/ejercicio_4.md#4.b)
+5. Una firma proveedora de software ha ofrecido sus servicios a 3 empresas. Se definen los eventos $A_i$ = {la empresa $i$ realiza una compra a esta firma} , para $i = 1, 2, 3$. Se sabe que:
 
 ```math
 \begin{array}{ccc}
@@ -64,7 +64,7 @@ P(A_1 \cap A_2 \cap A_3)=0.01
 \end{array}
 ```
 
-[Expresar en palabras los siguientes eventos y calcular sus probabilidades:](2_equiprobabilidad/ejercicio_5.md#5)
+Expresar en palabras los siguientes eventos y calcular sus probabilidades: [ver](2_equiprobabilidad/ejercicio_5.md#5)
 
 ```math
 \begin{array}{ccc}
@@ -73,15 +73,15 @@ A^C_1 \cap A^C_2 \cap A^C_3 & A^C_1 \cap A^C_2 \cap A_3 & (A^C_1 \cap A^C_2) \cu
 \end{array}
 ```
 
-6. [Un grupo de 60 alumnos será subdividido al azar en dos divisiones de 30 alumnos cada una. Cinco de esos alumnos son muy amigos.: Alicia, Beto, Carmen, Diego y Eva:](2_equiprobabilidad/ejercicio_6.md#6)
-    1. [¿Cuál es la probabilidad de que todos queden en la misma división?](2_equiprobabilidad/ejercicio_6.md#6.a)
-    2. [¿Cuál es la probabilidad de que sólo quede separado Diego?](2_equiprobabilidad/ejercicio_6.md#6.b)
-7. [De un grupo de 6 mujeres y 4 hombres se deben elegir 3 personas para que los representen en tres congresos a desarrollarse en mayo, junio y septiembre.](2_equiprobabilidad/ejercicio_7.md#7)
-    1. [Suponiendo que una persona puede ir a más de un congreso, calcular la probabilidad de que:](2_equiprobabilidad/ejercicio_7.md#7.a)
-        1. [a los dos primeros congresos vayan mujeres.](2_equiprobabilidad/ejercicio_7.md#7.a.1)
-        2. [a los dos primeros congresos vayan mujeres y al tercero un hombre.](2_equiprobabilidad/ejercicio_7.md#7.a.2)
-        3. [haya por lo menos una mujer entre las 3 personas elegidas.](2_equiprobabilidad/ejercicio_7.md#7.a.3)
-    2. [Si a cada congreso debe ir una persona diferente, calcular las mismas probabilidades que en (7.i) y además la probabilidad de que haya exactamente una mujer entre las 3 personas elegidas.](2_equiprobabilidad/ejercicio_7.md#7.b)
+6. Un grupo de 60 alumnos será subdividido al azar en dos divisiones de 30 alumnos cada una. Cinco de esos alumnos son muy amigos.: Alicia, Beto, Carmen, Diego y Eva: [ver](2_equiprobabilidad/ejercicio_6.md#6)
+    1. ¿Cuál es la probabilidad de que todos queden en la misma división? [ver](2_equiprobabilidad/ejercicio_6.md#6.a)
+    2. ¿Cuál es la probabilidad de que sólo quede separado Diego? [ver](2_equiprobabilidad/ejercicio_6.md#6.b)
+7. De un grupo de 6 mujeres y 4 hombres se deben elegir 3 personas para que los representen en tres congresos a desarrollarse en mayo, junio y septiembre. [ver](2_equiprobabilidad/ejercicio_7.md#7)
+    1. Suponiendo que una persona puede ir a más de un congreso, calcular la probabilidad de que: [ver](2_equiprobabilidad/ejercicio_7.md#7.a)
+        1. a los dos primeros congresos vayan mujeres. [ver](2_equiprobabilidad/ejercicio_7.md#7.a.1)
+        2. a los dos primeros congresos vayan mujeres y al tercero un hombre. [ver](2_equiprobabilidad/ejercicio_7.md#7.a.2)
+        3. haya por lo menos una mujer entre las 3 personas elegidas. [ver](2_equiprobabilidad/ejercicio_7.md#7.a.3)
+    2. Si a cada congreso debe ir una persona diferente, calcular las mismas probabilidades que en (7.i) y además la probabilidad de que haya exactamente una mujer entre las 3 personas elegidas. [ver](2_equiprobabilidad/ejercicio_7.md#7.b)
 8. En un negocio hay 6 productos de cierto tipo, 3 de ellos vencidos y 3 que están dentro del periodo de validez. Si un supervisor, que no sabe cuántos envases válidos o vencidos hay, los revisa, ¿cuál es la probabilidad de que
     1. los tres primeros envases revisados contengan los productos vencidos?
     2. necesite revisar exactamente $i$ envases para encontrar los tres que contienen los productos vencidos? (hacerlo para $i = 4, 5, 6$).
@@ -192,3 +192,5 @@ sistema sı́ funciona.
 22. (∗) Sean $A$ y $B$ dos eventos de un espacio muestral $\Omega$.
     1. Probar que el suceso $A$ es independiente de cualquier suceso $B$ si y sólo si $P(A)=0$ ó $P(A)=1$.
     2. Probar que si $A \subset B$ y $A$ y $B$ son independientes, entonces $P(A)=0$ ó $P(B)=1$.
+
+> [Volver](../README.md)
